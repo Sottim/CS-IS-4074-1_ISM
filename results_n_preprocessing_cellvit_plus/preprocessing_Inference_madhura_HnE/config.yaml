@@ -1,0 +1,11 @@
+files:
+  - input:  /media/20TB/augumented-health-system/tnbc/tnbc-max/ar_ihc/batch-01/11_17122024_H-2992_18-N_AR_IHC_40X.scn
+    output_dir: /media/network/hdd/santosh/tnbc-max_madhura/combined_inference_on_markers/input_data
+  - input: /media/20TB/augumented-health-system/tnbc/tnbc-max/claudin3_IHC/batch-01/11_22012025_H-2992_18_Claudin-3_IHC_40X.scn
+    output_dir: /media/network/hdd/santosh/tnbc-max_madhura/combined_inference_on_markers/input_data
+  - input: /media/20TB/augumented-health-system/tnbc/tnbc-max/Claudin-7_IHC_slides/01/11_29012025_H-2992_18-N_Claudin-7_IHC_40X.scn
+    output_dir: /media/network/hdd/santosh/tnbc-max_madhura/combined_inference_on_markers/input_data
+  - input: /media/20TB/augumented-health-system/tnbc/tnbc-max/E_Cadherin_IHC_Slides/01/11_27022025_H-2992_18_E-Cadherin_IHC_40X.scn
+    output_dir: /media/network/hdd/santosh/tnbc-max_madhura/combined_inference_on_markers/input_data
+  - input: /media/20TB/augumented-health-system/tnbc/tnbc-max/5_CK56_IHC_Slides/01/11_19032025_H-2992_18-N_CK5.6_IHC_40X.scn
+    output_dir: /media/network/hdd/santosh/tnbc-max_madhura/combined_inference_on_markers/input_data
